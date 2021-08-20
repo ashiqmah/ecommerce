@@ -1,0 +1,28 @@
+.container{ margin-bottom: 100px;
+
+}
+.newbtn{ 
+    color: white;
+    background-color: red;
+    border-radius: 10px; 
+   font-weight: bold;   
+}  
+  
+.divimg img{ 
+       height: 100px;
+   }
+  
+   .divimg{ 
+       border-color: springgreen;
+       border-style: solid;
+   }
+  .card img{ height: 200px;
+}  
+.card{ border-style: none }
+h5{ color: rgba(105, 184, 26, 0.753);}
+h3 {color: darkblue;}
+.footer h6{ color: darkcyan;}
+li{list-style: none;}
+
+.footersocket{ text-align: center;
+background-color: springgreen;}
